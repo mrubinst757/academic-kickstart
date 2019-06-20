@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Mikaela Meyer
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Statistics and Public Policy PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carnegie Mellon University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mikaela is a PhD student in the joint Statistics and Public Policy program at Carnegie Mellon University. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Racial discrepancies in policing
+- Fairness, accountability, and transparency in machine learning (FATML)
+- Causal inference
+- Statistics education
+- Record linkage
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics and Public Policy
+    institution: Carnegie Mellon University
+    year: 2023
+  - course: MS in Statistics & Data Science
+    institution: Carnegie Mellon University
+    year: 2020
+  - course: BSc in Mathematical Statistics
+    institution: Purdue University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mrmeyer@andrew.cmu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/mmeyer717
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mmeyer717
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +64,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: 
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My name is Mikaela Meyer, and I'm a PhD student in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. I earned my BSc in Mathematical Statistics and Applied Statistics from Purdue University in May 2018. I am the 2017 [Truman Scholar](https://www.truman.gov/2017-truman-scholars) from Indiana. Currently, my research interests include "fair" machine learning (FATML), causal inference, statistics pedagogy, and record linkage. When I'm not in the office, you can usually find me playing intramural sports, cheering for the Boilermakers, having fun at board game night, or watching movies with friends.
