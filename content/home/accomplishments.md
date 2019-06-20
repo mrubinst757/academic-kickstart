@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Truman Scholarship Foundation"
-  organization_url = "https://truman.gov"
+  organization_url = "https://www.truman.gov/2017-truman-scholars/"
   title = "Truman Scholarship"
   url = ""
-  certificate_url = "https://www.truman.gov/2017-truman-scholars/"
+  certificate_url = ""
   date_start = "2017-04-01"
   date_end = ""
   description = "A prestigious, competitive graduate school scholarship given to college juniors; recognizes a student's commitment to public service and leadership potential"
