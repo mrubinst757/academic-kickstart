@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2018-06-01"
   date_end = "2018-07-31"
-  description = """Summarized DHS R scripts for a team of statisticians and non-statisticians to better understand how the Department calculated various border security metrics. Findings can be found in this [report](https://www.gao.gov/products/GAO-19-305)"""
+  description = """Internship completed as part of Truman Scholarship Foundation's [Summer Institute] (https://www.truman.gov/whats-new/2018-summer-institute)
+  
+Summarized DHS R scripts for a team of statisticians and non-statisticians to better understand how the Department calculated various border security metrics. Findings can be found in this [report.](https://www.gao.gov/products/GAO-19-305)"""
 
 [[experience]]
   title = "Emerging Leaders Program Data Science Intern"
