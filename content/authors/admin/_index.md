@@ -35,7 +35,7 @@ education:
   - course: MS in Statistics & Data Science
     institution: Carnegie Mellon University
     year: 2019
-  - course: BSc in Mathematical Statistics
+  - course: BS in Mathematical Statistics
     institution: Purdue University
     year: 2018
 
