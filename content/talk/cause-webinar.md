@@ -2,7 +2,7 @@
 title = "Introducing think-aloud interviews as a tool to explore student statistical reasoning"
 
 # Date first published.
-date = "2019-12-1"
+date = "2019-12-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M Meyer", "C Evans"]
