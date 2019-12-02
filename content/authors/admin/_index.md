@@ -25,7 +25,6 @@ interests:
 - Fairness, accountability, and transparency in machine learning (FATML)
 - Causal inference
 - Statistics education
-- Record linkage
 
 education:
   courses:
@@ -34,7 +33,7 @@ education:
     year: 2023
   - course: MS in Statistics & Data Science
     institution: Carnegie Mellon University
-    year: 2019
+    year: 2020
   - course: BS in Mathematical Statistics
     institution: Purdue University
     year: 2018
