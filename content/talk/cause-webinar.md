@@ -2,18 +2,18 @@
 title = "Introducing think-aloud interviews as a tool to explore student statistical reasoning"
 
 # Date first published.
-date = "2019-12-10"
+date = "2019-12-1"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M Meyer"]
+authors = ["M Meyer", "C Evans"]
 
 # Publication name and optional abbreviated version.
 publication = "Webinar for Consortium for the Advancement of Undergraduate Statistics Education (CAUSE)"
 publication_short = "CAUSE Webinar"
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = ""
+abstract = "Think-aloud interviews with students can be used to detect specific misconceptions and understand how students reason about statistical questions. Data from think-aloud interviews can then be used to develop conceptual assessments, design new teaching strategies, or suggest further experiments to learn how students think about statistics. In this webinar, we will discuss the benefits of using think-aloud interviews to develop conceptual assessments and the experience we have had using think-aloud interviews in two introductory-level statistics courses."
+abstract_short = "Think-aloud interviews with students can be used to detect specific misconceptions and understand how students reason about statistical questions. Data from think-aloud interviews can then be used to develop conceptual assessments, design new teaching strategies, or suggest further experiments to learn how students think about statistics. In this webinar, we will discuss the benefits of using think-aloud interviews to develop conceptual assessments and the experience we have had using think-aloud interviews in two introductory-level statistics courses."
 # Featured image thumbnail (optional)
 image_preview = ""
 
@@ -33,7 +33,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.causeweb.org/cause/webinar/teaching/2019-12"
 url_poster = ""
 url_source = ""
 
