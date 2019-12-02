@@ -27,5 +27,25 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = "A prestigious, competitive graduate school scholarship given to college juniors; recognizes a student's commitment to public service and leadership potential"
+  
+  [[item]]
+  organization = "The Phi Beta Kappa Society"
+  organization_url = "https://www.pbk.org/"
+  title = "Phi Beta Kappa"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-01"
+  date_end = ""
+  description = "Inducted into the oldest academic honor society in the United States"
+
+[[item]]
+  organization = "Stamps Family Charitable Foundation"
+  organization_url = "https://www.stampsfoundation.org/project/mikaela-meyer-purdue-university/"
+  title = "Stamps Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-08-01"
+  date_end = "2018-05-01"
+  description = "A full tuition and room/board scholarship that recognizes a student's academic merit, strong leadership potential, and exceptional character"
 
 +++
