@@ -1,9 +1,9 @@
 +++
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
-widget = "posts"  # Do not modify this line!
-active = false  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+widget = "posts"  
+active = false  
+weight = 100  
 date = 2016-04-20T00:00:00
 
 title = "Recent Posts"
