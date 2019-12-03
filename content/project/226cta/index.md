@@ -23,7 +23,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/Mr8ND/TC-prediction-bands#2-tcpredictionbands-package"}]
+#url_custom = [{icon_pack = "fab", icon="r-project", name="R Package", url = "https://github.com/Mr8ND/TC-prediction-bands#2-tcpredictionbands-package"}]
 
 
 # Featured image
