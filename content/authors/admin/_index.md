@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Statistics and Public Policy
+  - course: Ph.D. in Statistics and Public Policy
     institution: Carnegie Mellon University
     year: 2023
   - course: MS in Statistics & Data Science
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: pdf/MIKAELA_MEYER_CV.pdf
+  link: pdf/final_CV_12_2019.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
