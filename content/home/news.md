@@ -22,7 +22,6 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
+* <b>August 2020</b>: Presentation at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/) virtual conference 
 * <b>March 2020</b>: I will be interning at RAND this summer. I will be managed by [Dr. Jordan Fischbach](https://www.rand.org/about/people/f/fischbach_jordan.html) and [Dr. Michelle Miro](https://www.rand.org/about/people/m/miro_michelle_e.html).
 * <b>December 2019</b>: Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) [Webinar](https://www.causeweb.org/cause/webinar/teaching/2019-12) Presentation
-* <b>July 2019</b>: Presentation and poster at the [2019 Joint Statistical Meeting (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) in Denver, CO
-* <b>May 2019</b>: Breakout Session at [US Conference on Teaching Statistics](https://www.causeweb.org/cause/uscots/uscots19) in State College, PA
