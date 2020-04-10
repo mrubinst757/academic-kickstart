@@ -59,7 +59,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5BKKgQ5Wk8TWFQ_YHBE9LeNDAXepsX2032FvE2l3yj6GXHBv8ycqNn5lvJfrFh8kjTDuXVQcNP1B1hzCafw0MDWIYmzw&user=LCmGrl4AAAAJ
 - icon: cv
   icon_pack: ai
-  link: pdf/final_CV_12_2019.pdf
+  link: pdf/final_CV_04_2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
