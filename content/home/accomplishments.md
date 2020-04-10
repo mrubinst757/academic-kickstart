@@ -19,12 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "American Statistical Association (ASA)"
+  organization_url = "https://www.amstat.org/ASA/Your-Career/Awards/Gertrude-M-Cox-Scholarship.aspx"
+  title = "Gertrude M. Cox Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = "Established in 1989 to encourage more women to enter statistically oriented professions; awarded to two women annually"
+
+[[item]]
   organization = "National Science Foundation"
   organization_url = "https://www.google.com/url?q=https%3A%2F%2Fwww.fastlane.nsf.gov%2Fgrfp%2FAwardeeList.do%3Fmethod%3DloadAwardeeList&sa=D&sntz=1&usg=AFQjCNGfbsS_DF0lscELRBvWo-KB5G29cg"
   title = "NSF Graduate Research Fellowship Program (NSF GRFP) Fellow"
   url = ""
   certificate_url = ""
-  date_start = "2020-08-01"
+  date_start = "2020-04-02"
   date_end = ""
   description = "Awarded in the discipline of public policy; provides $34,000 annual stipend and tuition support"
 
