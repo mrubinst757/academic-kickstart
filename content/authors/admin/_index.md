@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mikaela Meyer
+name: Max Rubinstein
 
 # Username (this should match the folder name)
 authors:
@@ -18,25 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mikaela is a PhD student in the joint Statistics and Public Policy program at Carnegie Mellon University. 
+bio: Max is a PhD student in the Statistics and Public Policy program at Carnegie Mellon University. 
 
 interests:
-- Racial discrepancies in policing
-- Fairness, accountability, and transparency in machine learning (FATML)
-- Causal inference
-- Statistics education
+- Program evaluation methods in health care policy research
+- Machine learning and causal inference 
+- Disparities in health care 
 
 education:
   courses:
   - course: Ph.D. in Statistics and Public Policy
     institution: Carnegie Mellon University
-    year: 2023
-  - course: MS in Statistics & Data Science
-    institution: Carnegie Mellon University
-    year: 2020
-  - course: BS in Mathematical Statistics
-    institution: Purdue University
-    year: 2018
+    year: 2023 
+  - course: MA in Public Policy
+    institution: Georgetown University
+    year: 2015
+  - course: AB in History
+    institution: University of Chicago
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,18 +44,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mrmeyer@andrew.cmu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mrubinst@andrew.cmu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mmeyer717
+  link: https://twitter.com/max_rubinstein
 - icon: github
   icon_pack: fab
-  link: https://github.com/mmeyer717
+  link: https://github.com/mrubinst757
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5BKKgQ5Wk8TWFQ_YHBE9LeNDAXepsX2032FvE2l3yj6GXHBv8ycqNn5lvJfrFh8kjTDuXVQcNP1B1hzCafw0MDWIYmzw&user=LCmGrl4AAAAJ
 - icon: cv
   icon_pack: ai
   link: pdf/final_CV_04_2020.pdf
@@ -71,4 +67,4 @@ user_groups:
 # - Visitors
 ---
 
-My name is Mikaela Meyer, and I'm a PhD student and [NSF Graduate Research Fellowship Program](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) (NSF GRFP) Fellow in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. I earned my BS in Mathematical Statistics and Applied Statistics from Purdue University in May 2018. I am the 2017 [Truman Scholar](https://www.truman.gov/2017-truman-scholars) from Indiana. Currently, my research interests include fair machine learning (FATML), causal inference, applying statistics to criminal justice questions and statistics pedagogy. When I'm not in the office, you can usually find me playing intramural sports, cheering for the Boilermakers, or having fun at board game night.
+My name is Max Rubinstein, and I'm a PhD student in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. I previously worked in health care policy research at Mathematica in Washington, DC. My research interests are in statistical and machine learning methods for causal inference in healthcare policy. Right now I'm working in developing reweighting estimators for group-level data, and I'm also generally interested in non-parametric estimation of causal effects. In my spare time I also enjoy the outdoors (especially the desert southwest) and comedy.
