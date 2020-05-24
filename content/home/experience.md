@@ -18,23 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Applied Research and Methods Intern"
-  company = "Government Accountability Office"
-  company_url = ""
+  title = "Research Analyst"
+  company = "Mathematica"
+  company_url = "https://www.mathematica.org/"
   location = "Washington, DC"
-  date_start = "2018-06-01"
-  date_end = "2018-07-31"
-  description = """Internship completed as part of Truman Scholarship Foundation's [Summer Institute] (https://www.truman.gov/whats-new/2018-summer-institute)
-  
-Summarized DHS R scripts for a team of statisticians and non-statisticians to better understand how the Department calculated various border security metrics. Findings can be found in this [report.](https://www.gao.gov/products/GAO-19-305)"""
+  date_start = "2015-06-01"
+  date_end = "2017-04-30"
+  description = """Analyzed data and assisted writing reports pertaining to hospital quality measurement, Medicare pay-for-performance programs (eg, the Value-Based Payment Modifier program), and the Medicaid Emergency Psychiatric Demonstration"""
 
-[[experience]]
-  title = "Emerging Leaders Program Data Science Intern"
-  company = "Nielsen"
-  company_url = ""
-  location = "Schaumburg, IL"
-  date_start = "2017-06-12"
-  date_end = "2017-08-15"
-  description = """Created a scorecard for a new data integration product in Pandas"""
 
 +++
