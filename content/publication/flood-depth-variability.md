@@ -1,11 +1,11 @@
 +++
-title = "Variability of Best-Estimate Flood Depth Return Periods in Coastal Louisiana"
+title = "The Effect of Medicaid Expansion on Adult Uninsurance Rates: Estimating the Treatment Effect on Non-Expansion States"
 
 # Date first published.
-date = "2019-05-14"
+date = "May 30, 2020"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mikaela R. Meyer", "David R. Johnson"]
+authors = ["Max Rubinstein", "Amelia Haviland"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,14 @@ authors = ["Mikaela R. Meyer", "David R. Johnson"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Marine Science and Engineering*"
-publication_short = "In *JMSE*"
 
 # Abstract and optional shortened version.
-abstract = "We empirically examine the degree to which best-estimates of coastal Louisiana floodplains have changed over time and consider implications for risk management policies. We generate variation in estimated 100-year flood depths by truncating a historical data set of observed tropical cyclones to end in years ranging from 1980 to 2016, adopting three procedures for updating various inputs to an existing flood risk model using the truncated data set to identify which factors are most important in driving variation in risk estimates over time.  Our findings indicate that the 100-year floodplain extent has substantially expanded in populated areas since 1980 due to these effects."
-abstract_short = "We empirically examine the degree to which best-estimates of coastal Louisiana floodplains have changed over time and consider implications for risk management policies. We generate variation in estimated 100-year flood depths by truncating a historical data set of observed tropical cyclones to end in years ranging from 1980 to 2016, adopting three procedures for updating various inputs to an existing flood risk model using the truncated data set to identify which factors are most important in driving variation in risk estimates over time.  Our findings indicate that the 100-year floodplain extent has substantially expanded in populated areas since 1980 due to these effects."
+abstract = "We estimate the effect of Medicaid expansion on non-expansion states in 2014. We make three primary contributions to the existing literature. First, in contrast to the existing literature, we directly target treatment effects on non-expansion states (ETU). This effect is relevant if we wish to understand the magnitude of the foregone coverage gains associated with these states' decision not to expand Medicaid. Second, we extend the synthetic controls approach to estimate this effect, which we call a "synthetic treatment." Abadie et al. (2010) proposed synthetic controls to estimate counterfactuals absent an intervention; in this paper we adapt the methodology to predict the unobserved counterfactual given exposure to an intervention. Using this approach, we estimate that that the ETU is -2.08 (-1.34, -2.82). This estimate is lower in magnitude than comparable estimates of the treatment effect on the treated (ETT) in the existing literature. We provide evidence that factors associated with Republican governance drives this differential. This result highlights the mediating role of implementation and related factors in determining Medicaid enrollment. If the ultimate goal of the 2014 Medicaid expansion was to maximize insurance coverage, our results suggest that non-expansion states would have seen lower coverage gains than expansion states in 2014. The federal government may therefore wish to adopt policies to encourage enrollment among eligible individuals."
+
+abstract_short = "We estimate the effect of Medicaid expansion on non-expansion states in 2014. We make three primary contributions to the existing literature. First, in contrast to the existing literature, we directly target treatment effects on non-expansion states (ETU). This effect is relevant if we wish to understand the magnitude of the foregone coverage gains associated with these states' decision not to expand Medicaid. Second, we extend the synthetic controls approach to estimate this effect, which we call a "synthetic treatment." Abadie et al. (2010) proposed synthetic controls to estimate counterfactuals absent an intervention; in this paper we adapt the methodology to predict the unobserved counterfactual given exposure to an intervention. Using this approach, we estimate that that the ETU is -2.08 (-1.34, -2.82). This estimate is lower in magnitude than comparable estimates of the treatment effect on the treated (ETT) in the existing literature. We provide evidence that factors associated with Republican governance drives this differential. This result highlights the mediating role of implementation and related factors in determining Medicaid enrollment. If the ultimate goal of the 2014 Medicaid expansion was to maximize insurance coverage, our results suggest that non-expansion states would have seen lower coverage gains than expansion states in 2014. The federal government may therefore wish to adopt policies to encourage enrollment among eligible individuals."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +38,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/jmse-07-00145.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -62,7 +61,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "floodplain-status-jmse.jpg"
+image = ""
 caption = ""
 
 +++
