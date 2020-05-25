@@ -9,7 +9,7 @@ At least some of the excitement about the Synthetic Controls method comes from t
 The context for the synthetic controls literature is frequently a panel of data with units j = 0, ..., J observed across time-periods $T = 0, ..., T_0, ..., T$, where unit $j = 0$ is treated at time $T_0 + 1$. We then posit the following model for the potential outcomes absent treatment:
 
 $$
-Y_{it}^0 = \beta_tX_i + \lambda_t\mu_i + \epsilon_it
+Y_{it}^0 = \beta_tX_i + \lambda_t\mu_i + \epsilon_{it}
 $$
 
 where $\lambda_t$ is a $(1 x F)$ vector of factors and $\mu_i$ is an $(F x 1)$ vector of so-called factor loadings. This model is essentially a generalization of the two-way fixed effects model. Specifically, the two-way fixed effects model is the special case with two factors, where $\lambda_{t, 1} = 1$ for all periods (ie unit fixed-effects) and the second factor has associated factor loadings $\mu_{i, 1} = 1$ for all time-periods. When thinking about the region-level data typical of these applications, this model basically allows regions to experience common shocks in different ways, and explains the residual cross-sectional and time-series dependence in the data if we only controlled for covariates $X_i$.
