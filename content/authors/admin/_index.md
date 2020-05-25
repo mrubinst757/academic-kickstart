@@ -21,8 +21,8 @@ organizations:
 bio: Max is a PhD student in the Statistics and Public Policy program at Carnegie Mellon University. 
 
 interests:
-- Program evaluation methods in health care policy research
 - Machine learning and causal inference 
+- Program evaluation methods in health care policy research
 - Disparities in health care 
 
 education:
@@ -53,9 +53,9 @@ social:
   link: https://github.com/mrubinst757
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: pdf/final_CV_04_2020.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: pdf/final_CV_04_2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ user_groups:
 # - Visitors
 ---
 
-My name is Max Rubinstein, and I'm a PhD student in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. I previously worked in health care policy research at Mathematica in Washington, DC. My research interests are in statistical and machine learning methods for causal inference in healthcare policy. Right now I'm working in developing reweighting estimators for group-level data, and I'm also generally interested in non-parametric estimation of causal effects. In my spare time I also enjoy the outdoors (especially the desert southwest) and comedy.
+I'm a PhD student in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. My interests are in statistical and machine learning methods for causal inference and health care policy. I'm currently working on a project to develop an efficient reweighting estimator for group-level data and applying this to study effects of Medicaid expansion on states that did not expand Medicaid. Before coming to Carnegie Mellon I worked in health data analytics at Mathematica in Washington, DC. In my spare time I also enjoy the outdoors (especially the desert southwest) and improv comedy.
