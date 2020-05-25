@@ -5,6 +5,12 @@ math: true
 diagram: true
 ---
 
+---
+title: "Untitled"
+author: "Max Rubinstein"
+date: "May 25, 2020"
+output: html_document
+---
 At least some of the excitement about the Synthetic Controls method comes from the proof in Abadie et al. (2010), where the authors show that assuming the outcome model absent treatment follows a linear factor model, we can bound the bias of the estimator for a finite number of pre-treatment time-periods ($T_0$). A lot of interesting papers have been written this paper analyzing this bound under different assumptions (see, eg, Botosaru & Ferman (2019); Ferman & Pinto (2019)). I’m writing this to summarize some of my thoughts after reading these papers the past several months and to ask a few questions. Let me caveat that I hardly claim to think I'm going to get everything right here -- and if anyone who reads this notices any mistakes, or I’m missing some point, please reach out to me – I’d love to learn more.
 
 The context for the synthetic controls literature is frequently a panel of data with units j = 0, ..., J observed across time-periods $T = 0, ..., T_0, ..., T$, where unit $j = 0$ is treated at time $T_0 + 1$. We then posit the following model for the potential outcomes absent treatment:
@@ -21,7 +27,7 @@ $$
 Z_0'w = Z_1
 $$
 
-That's already a pretty strong condition, especially considering almost no one gets exact mean-balancing weights in any application (more on this later). Nevertheless, we carry on and assume that there are F factors where $\lambda_{tf}$ are bounded by $\bar{\lambda}$. We also assume that the covariance matrix of these factors in the pre-treatment period $(\frac{1}{T_0}\sum_{t = 1}^{T_0}\lambda_t'\lambda$) is non-singular, and that the minimum eigenvalue is $\bar{\zeta} > 0$. We also let $m_{p, tj} = \mathbb{E}\mid\epsilon_{jt}\mid^p$, $m_{p,j} = \frac{1}{T_0}\sum_{t = 1}^{T_0}m_{p, tj}, $\bar{m_p} = \max_{j = 1,...,J}m_{p, j}$ (whew), and lastly we let $\sigma_{jt} = \mathbb{E}(\epsilon_{jt}^2), \sigma_j = \frac{1}{T_0}\sum_{t=1}^{T_0}\sigma_{jt}^2, \bar{\sigma} = \max_{j = 1, ..., J} \sqrt{\sigma_j^2}.
+That's already a pretty strong condition, especially considering almost no one gets exact mean-balancing weights in any application (more on this later). Nevertheless, we carry on and assume that there are F factors where $\lambda_{tf}$ are bounded by $\bar{\lambda}$. We also assume that the covariance matrix of these factors in the pre-treatment period $(\frac{1}{T_0}\sum_{t = 1}^{T_0}\lambda_t'\lambda$) is non-singular, and that the minimum eigenvalue is $\bar{\zeta} > 0$. We also let $m_{p, tj} = \mathbb{E}\mid\epsilon_{jt}\mid^p$, $m_{p,j} = \frac{1}{T_0}\sum_{t = 1}^{T_0}m_{p, tj}$, $\bar{m_p} = \max_{j = 1,...,J}m_{p, j}$ (whew), and lastly we let $\sigma_{jt} = \mathbb{E}(\epsilon_{jt}^2)$, $\sigma_j = \frac{1}{T_0}\sum_{t=1}^{T_0}\sigma_{jt}^2$, $\bar{\sigma} = \max_{j = 1, ..., J} \sqrt{\sigma_j^2}$.
 
 The authors then show that the bias of this estimator is bounded by the following frightening expression:
 
