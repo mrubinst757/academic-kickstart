@@ -25,14 +25,6 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-  [[content.filter_button]]
-     name = "Statistics Pedagogy"
-     tag = "teachstat"
-  
-  [[content.filter_button]]
-     name = "Center for Policing Equity"
-     tag = "cpe"
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
