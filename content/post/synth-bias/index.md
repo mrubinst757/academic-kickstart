@@ -1,5 +1,5 @@
 ---
-title: The Linear Factor Model and Synthetic Controls
+title: The Linear Factor Model and the Bias of Synthetic Controls
 date: 2020-05-24
 math: true
 diagram: false
