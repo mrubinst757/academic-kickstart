@@ -25,7 +25,7 @@ That's already a pretty strong condition, especially considering almost no one g
 The authors then show that the bias of this estimator is bounded by the following frightening expression:
 
 $$
-C\frac{\bar{\lambda}F}{\bar{\zeta}}\max\(\frac{\bar{m\_p}^{1/p}}{T\_0^{1 - 1/p}}, \frac{\bar{\sigma}}{T\_0^{1/2}})
+C\frac{\bar{\lambda}F}{\bar{\zeta}}\max(\frac{\bar{m\_p}^{1/p}}{T\_0^{1 - 1/p}}, \frac{\bar{\sigma}}{T\_0^{1/2}})
 $$ 
 
 There are a couple of things worth noting here (and I’m hardly the first one to note them). First of all we assumed that the maximum value of the unobserved factors is bounded across all time periods from $t = 1,..., T$. Imagine trying to run this algorithm on some exponentially increasing process, like, for instance, COVID-19 deaths. You may think that over some fixed time period the value of these factors are bounded, but this result suggests that the bias bound might be pretty bad when we have outcomes that increase exponentially over time (non-stationary outcomes). This suggests to me that analyzing a stationary outcome should be easier. 
