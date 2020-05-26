@@ -12,7 +12,7 @@ $$
 Y\_{it}^0 = \beta\_tX\_i + \lambda\_t\mu\_i + \epsilon\_{it}
 $$
 
-where $\lambda\_t$ is a $(1 x F)$ vector of factors and $\mu\_i$ is an $(F x 1)$ vector of so-called factor loadings. This model is essentially a generalization of the two-way fixed effects model. Specifically, the two-way fixed effects model is the special case with two factors, where $\lambda\_{t, 1} = 1$ for all periods (ie unit fixed-effects) and the second factor has associated factor loadings $\mu\_{i, 1} = 1$ for all time-periods. When thinking about the region-level data typical of these applications, this model basically allows regions to experience common shocks in different ways, and explains the residual cross-sectional and time-series dependence in the data if we only controlled for covariates $X\_i$.
+where $\lambda\_t$ is a $(1 x F)$ vector of factors and $\mu\_i$ is an $(F x 1)$ vector of so-called factor loadings. This model is essentially a generalization of the two-way fixed effects model. Specifically, the two-way fixed effects model is the special case with two factors, where $\lambda\_{t, 1} = 1$ for all periods (ie unit fixed-effects) and the second factor has associated factor loadings $\mu\_{i, 1} = 1$ for all units. When thinking about the region-level data typical of these applications, this model basically allows regions to experience common shocks in different ways, and explains the residual cross-sectional and time-series dependence in the data if we only controlled for covariates $X\_i$.
 
 Abadie et al (2010) then prove that the bias of the synthetic controls estimator is bounded in this setting (I'm not going to review this estimation strategy, but I encourage you to read the paper if you haven't read it!). The proof relies on the existence of weights that exactly balances the means of the control group's covariates $X\_0$ and the pre-treatment outcomes $Y_0$ for $T_0$ time periods to the treated unit's covariate/pre-treatment outcome values. That is, letting $Z = (X, Y)$ we have a $(J x 1)$ vector of weights $w$ such that 
 
@@ -25,7 +25,7 @@ That's already a pretty strong condition, especially considering almost no one g
 The authors then show that the bias of this estimator is bounded by the following frightening expression:
 
 $$
-C\frac{\bar{\lambda}F}{\bar{\zeta}}\max\\{\frac{\bar{m\_p}^{1/p}}{T\_0^{1 - 1/p}}, \frac{\bar{\sigma}}{T\_0^{1/2}}\\}
+C\frac{\bar{\lambda}F}{\bar{\zeta}}\max\(\frac{\bar{m\_p}^{1/p}}{T\_0^{1 - 1/p}}, \frac{\bar{\sigma}}{T\_0^{1/2}})
 $$ 
 
 There are a couple of things worth noting here (and I’m hardly the first one to note them). First of all we assumed that the maximum value of the unobserved factors is bounded across all time periods from $t = 1,..., T$. Imagine trying to run this algorithm on some exponentially increasing process, like, for instance, COVID-19 deaths. You may think that over some fixed time period the value of these factors are bounded, but this result suggests that the bias bound might be pretty bad when we have outcomes that increase exponentially over time (non-stationary outcomes). This suggests to me that analyzing a stationary outcome should be easier. 
@@ -42,7 +42,7 @@ Overall I think this result is interesting, but if I thought my outcomes were ge
 
 Fortunately, Botsaru & Ferman (2019) have a paper on what happens when we don’t exactly balance the covariates – they show that the bias is still bounded under mild conditions. They state:
 
-the intuition for this result is that it is only possible to have good balance in terms of pre-treatment outcomes for a long set of pre-treatment periods only if we also have good balance in terms of observed and unobserved covariates.
+> the intuition for this result is that it is only possible to have good balance in terms of pre-treatment outcomes for a long set of  pre-treatment periods only if we also have good balance in terms of observed and unobserved covariates.
 
 So maybe we don’t need to worry too much about balancing auxillary covariates as long as we get good balance over the pre-treatment outcomes.
 
