@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Statistics and Public Policy
     institution: Carnegie Mellon University
-    year: 2023 
+    year: 2022
   - course: MA in Public Policy
     institution: Georgetown University
     year: 2015
