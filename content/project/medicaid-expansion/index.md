@@ -6,7 +6,7 @@ title = "The Effect of Medicaid Expansion on Adult Uninsurance Rates: Estimating
 date = 2019-12-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "We use a panel of region-level data from the American Communities Survey (ACS) from 2011-2014 to estimate the foregone decreases in the non-elderly adult uninsurance rates among states that did not expand Medicaid in 2014. We show that this effect is lower than existing estimates of the treatment effect on expansion states, and provide evidence that factors associated with Republican governance attenuate the estimated effect size."
+summary = "We use a panel of region-level data from the American Communities Survey (ACS) from 2011-2014 to estimate the foregone coverage gains in among the non-elderly adult population living states that did not expand Medicaid in 2014. We show that this effect is closer to zero than existing estimates of the treatment effect on expansion states, and provide evidence that factors associated with Republican governance attenuate the estimated effect size."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -35,4 +35,4 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-We use a panel of region-level data from the American Communities Survey (ACS) from 2011-2014 to estimate the foregone decreases in the non-elderly adult uninsurance rates among states that did not expand Medicaid in 2014. We show that this effect is lower than existing estimates of the treatment effect on expansion states, and provide evidence that factors associated with Republican governance attenuate the estimated effect size. This work is advised by [Dr. Amelia Haviland.](https://www.heinz.cmu.edu/faculty-research/profiles/haviland-ameliam)
+We use a panel of region-level data from the American Communities Survey (ACS) from 2011-2014 to estimate the foregone coverage gains in among the non-elderly adult population living states that did not expand Medicaid in 2014. We show that this effect is closer to zero than existing estimates of the treatment effect on expansion states, and provide evidence that factors associated with Republican governance attenuate the estimated effect size. This work is advised by [Dr. Amelia Haviland.](https://www.heinz.cmu.edu/faculty-research/profiles/haviland-ameliam)
