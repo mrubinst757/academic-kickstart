@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
  - icon: cv
    icon_pack: ai
-   link: pdf/Resume_7-1-a20.pdf
+   link: pdf/Resume_7-1-20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ user_groups:
 # - Visitors
 ---
 
-I'm a PhD student in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. My broad interests are in statistical and machine learning methods for causal inference and health care policy. I'm especially interested in identification and estimation using panel-data, problems particular to group-level data, and weighting estimators. Before coming to Carnegie Mellon I worked in health data analytics at Mathematica in Washington, DC. In my spare time I also enjoy the outdoors (especially the desert southwest) and improv comedy.
+I'm a PhD student in the [joint Statistics and Public Policy program](http://www.stat.cmu.edu/phd/statheinz) at Carnegie Mellon University. My broad interests are in statistical and machine learning methods for causal inference and health care policy research. I'm especially interested in identification and estimation using panel-data, problems particular to group-level data, and weighting estimators. Before coming to Carnegie Mellon I worked in health data analytics at Mathematica Policy Research in Washington, DC. In my spare time I also enjoy the outdoors (especially the desert southwest) and improv comedy.
