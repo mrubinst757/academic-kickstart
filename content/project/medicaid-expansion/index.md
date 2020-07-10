@@ -1,6 +1,5 @@
 ---
 title: The Effect of Medicaid Expansion on Non-Elderly Adult Uninsurance Rates Among States that did not Expand Medicaid
-date: 2020-06-16
 math: true
 diagram: false
 ---
