@@ -2,7 +2,7 @@
 title = "The Effect of Medicaid Expansion on Adult Uninsurance Rates: Estimating the Treatment Effect on Non-Expansion States"
 
 # Date first published.
-date = "May 30, 2020"
+# date = "May 30, 2020"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Max Rubinstein", "Amelia Haviland"]
