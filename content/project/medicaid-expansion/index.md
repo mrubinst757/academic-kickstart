@@ -1,6 +1,1 @@
----
-title: The Effect of Medicaid Expansion on Non-Elderly Adult Uninsurance Rates Among States that did not Expand Medicaid
-math: true
-diagram: false
----
-We seek to better understand the foregone coverage gains of Medicaid expansion by estimating the effect of Medicaid expansion among states that did not expand Medicaid in 2014. This effect is important in its own right, but also because increasing insurance coverage mediates interesting downstream effects. Moreover, the existing literature suggests that Medicaid take-up rates differ by a state’s political partisan composition; as a result, we may reasonably believe that take-up rates would have been lower in states that did not expand Medicaid. Using data from the American Communities Survey (ACS), we estimate this effect using stable balancing weights (Zubizaretta (2015)) to reweight longitudinal covariates from expansion regions to match the covariate distribution from non-expansion regions. We estimate that the effect  is  -2.21 percentage  points (-1.31,-3.06). These results are closer to zero than existing estimates of the treatment effect on expansion states. We then show evidence that factors associated with Republican governance appears to largely drive this differential.
+
