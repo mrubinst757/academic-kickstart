@@ -1,11 +1,11 @@
 +++
 # A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/projects/`.
+# This section displays recent blog posts from `content/project/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Working Papers and Works in Progress"
 subtitle = ""
