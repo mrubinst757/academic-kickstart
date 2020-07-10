@@ -2,7 +2,7 @@
 title = "Stable Balancing Weights for Group-Level Data"
 
 # Date first published.
-date = "May 30, 2020"
+# date = "May 30, 2020"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Max Rubinstein"]
