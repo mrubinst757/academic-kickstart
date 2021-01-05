@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: pdf/Resume_7-1-20.pdf
+  link: pdf/Max_Rubinstein_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
