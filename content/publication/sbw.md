@@ -43,14 +43,14 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://1drv.ms/b/s!AhALRj1urnKLgd8PJ3XuBxQ6pq9MuQ"
 url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Recent Presentation", url = "https://1drv.ms/u/s!AhALRj1urnKLgd8RqFI5KFib09sBOw?e=hkoZdS"}]
+# url_custom = [{name = "Recent Presentation", url = "https://1drv.ms/u/s!AhALRj1urnKLgd8RqFI5KFib09sBOw?e=hkoZdS"}]
 
 # Does the content use math formatting?
 math = true
