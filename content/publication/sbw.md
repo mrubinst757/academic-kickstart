@@ -1,5 +1,5 @@
 +++
-title = "Extending Stable Balancing Weights for Hierarchical Data"
+title = "Stable Balancing Weights for Hierarchical Data"
 
 # Date first published.
 # date = "May 30, 2020"
