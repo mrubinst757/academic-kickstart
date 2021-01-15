@@ -38,7 +38,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://1drv.ms/b/s!AhALRj1urnKLgd8UgBol35b2GkXWPg"
+url_pdf = "https://1drv.ms/b/s!AhALRj1urnKLgd9DE41LBPt9XOx9MA"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
