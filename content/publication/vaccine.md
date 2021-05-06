@@ -5,7 +5,7 @@ title = "COVID-19 vaccine hesitancy January-March 2021 among 18-64 year old US a
 # date = "April 23, 2021"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wendy King", "Max Rubinstein", "Alex Reinhart", "Robin Mejia"]
+authors = ["Wendy C. King", "Max Rubinstein", "Alex Reinhart", "Robin J. Mejia"]
 
 # Publication type.
 # Legend:
