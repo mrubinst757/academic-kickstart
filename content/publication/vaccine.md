@@ -1,8 +1,8 @@
 +++
-title = "The Effect of Medicaid Expansion on Adult Uninsurance Rates: Estimating the Treatment Effect on Non-Expansion States"
+title = "COVID-19 vaccine hesitancy January-March 2021 among 18-64 year old US adults by employment and occupation"
 
 # Date first published.
-# date = "May 30, 2020"
+# date = "April 23, 2021"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Wendy King", "Max Rubinstein", "Alex Reinhart", "Robin Mejia"]
